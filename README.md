@@ -1,4 +1,9 @@
 # Hello
+My name Is Ben Kindem and This is my repository
+
+I have created this account in order to keep my assignments for APCSA, specifically with java
+
+
 
 <!--
 **benKindem12/benKindem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
