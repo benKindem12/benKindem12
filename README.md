@@ -3,6 +3,8 @@ My name Is Ben Kindem and This is my repository
 
 I have created this account in order to keep my assignments for APCSA, specifically with java
 
+I hope you have a good rest of your day
+
 
 
 <!--
