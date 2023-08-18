@@ -1,5 +1,5 @@
 # Hello
-My name Is Ben Kindem and This is my repository
+My name Is Ben Kindem and this is my repository
 
 I have created this account in order to keep my assignments for APCSA, specifically with java
 
